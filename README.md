@@ -1,4 +1,8 @@
-### Hi there 👋
+<h3 align="center">👋 Hi there! I'm Vivien Ruska </h3>
+<p align="center">
+  <a href="https://vivienne.codes">Website</a> •
+  <a href="https://twitter.com/vivienruska">Twitter</a>
+</p>
 
 <!--
 **viviruska/viviruska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
