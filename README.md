@@ -4,6 +4,10 @@
   <a href="https://twitter.com/vivienruska">Twitter</a>
 </p>
 
+<p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn140.picsart.com%2F261399689009212.png&f=1&nofb=1"/>
+</p>
+
 <!--
 **viviruska/viviruska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
