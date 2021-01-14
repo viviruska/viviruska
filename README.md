@@ -7,7 +7,14 @@
 </p>
 
 ## Programming Languages & Frameworks I Know
-<p align=center><a href="https://vivienne.codes"><img src="images/python-original.svg" width=7%><img src="images/react-logo.svg" width=7%></a></p>
+<p align=center>
+  <a href="https://vivienne.codes">
+    <img src="images/python-original.svg" width=7%>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width=7%>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=7%>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width=7%>
+  </a>
+</p>
 
 <!--
 **viviruska/viviruska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
