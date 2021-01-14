@@ -23,6 +23,10 @@
   <a href="https://www.twitter.com/vivienruska"><img src="images/twitter.svg" width=4%></a>
 </p>
 
+#### When I don't code
+:art: I like drawing (especially Manga) :woman_artist:
+<img src="images/manga.png" alt="manga character by me" width=25%>
+
 <!--
 **viviruska/viviruska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
