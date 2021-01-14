@@ -1,11 +1,9 @@
-<h3 align="center">👋 Hi there! I'm Vivien Ruska </h3>
+
+# Hello, I am Vivi<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
+
 <p align="center">
   <a href="https://vivienne.codes">Website</a> •
   <a href="https://twitter.com/vivienruska">Twitter</a>
-</p>
-
-<p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn140.picsart.com%2F261399689009212.png&f=1&nofb=1"/>
 </p>
 
 <!--
