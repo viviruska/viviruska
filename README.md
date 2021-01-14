@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://vivienne.codes">Website</a> •
-  <a href="https://twitter.com/vivienruska">Twitter</a>
 </p>
 
 ## Programming Languages & Frameworks I Know
@@ -14,6 +13,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=7%>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width=7%>
   </a>
+</p>
+
+### Find me around the web
+<p align=center>
+  <a href="https://www.linkedin.com/in/vivienruska"><img src="images/linkedin.svg" width=4%></a>
+  <a href="https://www.twitter.com/vivienruska"><img src="images/twitter.svg" width=4%></a>
 </p>
 
 <!--
