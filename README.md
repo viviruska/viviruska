@@ -18,6 +18,7 @@
 ## Tools I use
 <p align=center>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width=7%>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width=7%>
   <img src="images/gitlab.svg" width=7%>
   <img src="images/github.svg" width=7%>
   <img src="images/vscode.svg" width=7%>
@@ -31,7 +32,7 @@
   <a href="https://www.twitter.com/vivienruska"><img src="images/twitter.svg" width=4%></a>
 </p>
 
-#### Fun fact
+#### ⚡ Fun fact
 :art: I like drawing :point_right:
 <img src="images/manga.png" alt="manga character by me" width=25%>
 
