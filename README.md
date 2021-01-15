@@ -1,9 +1,6 @@
 
 # Hello, I am Vivi<img src="images/butterfly.gif" width=30%><img src="images/dog.gif" width=20%>
 
-<p align="center">
-  <a href="https://vivienne.codes">Website</a>
-</p>
 
 ## Programming Languages & Frameworks I Know
 <p align=center>
@@ -15,6 +12,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=7%>
   </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width=7%>
+  <img src="https://cdn.onlinewebfonts.com/svg/img_437027.png" width=7%>
+</p>
+
+## Tools I use
+<p align=center>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width=7%>
+  <img src="images/gitlab.svg" width=7%>
+  <img src="images/github.svg" width=7%>
+  <img src="images/vscode.svg" width=7%>
+  <img src="images/intellijidea.svg" width=7%>
 </p>
 
 ### Find me around the web
