@@ -31,8 +31,8 @@
   <a href="https://www.twitter.com/vivienruska"><img src="images/twitter.svg" width=4%></a>
 </p>
 
-#### When I don't code
-:art: I like drawing (especially Manga) :woman_artist:
+#### Fun fact
+:art: I like drawing :point_right:
 <img src="images/manga.png" alt="manga character by me" width=25%>
 
 <!--
