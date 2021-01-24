@@ -15,11 +15,14 @@
   <img src="https://cdn.onlinewebfonts.com/svg/img_437027.png" width=7%>
 </p>
 
-### Find me around the web
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviruska&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&bg_color=191919">
+</p>
+
 <p align=center>
-  <a href="https://vivienne.codes"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/1200px-Globe_icon-white.svg.png" width=4%></a>
-  <a href="https://www.linkedin.com/in/vivienruska"><img src="images/linkedin.svg" width=4%></a>
-  <a href="https://www.twitter.com/vivienruska"><img src="images/twitter.svg" width=4%></a>
+  <a href="https://vivienne.codes"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/1200px-Globe_icon-white.svg.png" width=3%></a>
+  <a href="https://www.linkedin.com/in/vivienruska"><img src="images/linkedin.svg" width=3%></a>
+  <a href="https://www.twitter.com/vivienruska"><img src="images/twitter.svg" width=3%></a>
 </p>
 
 <!--
