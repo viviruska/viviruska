@@ -20,7 +20,7 @@
 </p>
 
 <p align=center>
-  <a href="https://vivienne.codes"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/1200px-Globe_icon-white.svg.png" width=3%></a>
+  <a href="https://viviruska.hashnode.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Globe_icon-white.svg/1200px-Globe_icon-white.svg.png" width=3%></a>
   <a href="https://www.linkedin.com/in/vivienruska"><img src="images/linkedin.svg" width=3%></a>
   <a href="https://www.twitter.com/vivienruska"><img src="images/twitter.svg" width=3%></a>
 </p>
